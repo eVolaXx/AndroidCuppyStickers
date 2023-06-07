@@ -1,0 +1,3045 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "6",
+      "name": "The Joker 2019",
+      "publisher": "Joker pelicula",
+      "tray_image_file": "jokerfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "j1.webp"
+        },
+        {
+          "image_file": "j2.webp"
+        },
+        {
+          "image_file": "j3.webp"
+        },
+        {
+          "image_file": "j4.webp"
+        },
+        {
+          "image_file": "j5.webp"
+        },
+        {
+          "image_file": "j6.webp"
+        },
+        {
+          "image_file": "j7.webp"
+        },
+        {
+          "image_file": "j9.webp"
+        },
+        {
+          "image_file": "j10.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "34",
+      "name": "Kris Devil",
+      "publisher": "Demonio Kris",
+      "tray_image_file": "kfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "k1.webp"
+        },
+        {
+          "image_file": "k2.webp"
+        },
+        {
+          "image_file": "k3.webp"
+        },
+        {
+          "image_file": "k4.webp"
+        },
+        {
+          "image_file": "k5.webp"
+        },
+        {
+          "image_file": "k6.webp"
+        },
+        {
+          "image_file": "k7.webp"
+        },
+        {
+          "image_file": "k8.webp"
+        },
+        {
+          "image_file": "k9.webp"
+        },
+        {
+          "image_file": "k10.webp"
+        },
+        {
+          "image_file": "k11.webp"
+        },
+        {
+          "image_file": "k12.webp"
+        },
+        {
+          "image_file": "k13.webp"
+        },
+        {
+          "image_file": "k14.webp"
+        },
+        {
+          "image_file": "k15.webp"
+        },
+        {
+          "image_file": "k16.webp"
+        },
+        {
+          "image_file": "k17.webp"
+        },
+        {
+          "image_file": "k18.webp"
+        },
+        {
+          "image_file": "k19.webp"
+        },
+        {
+          "image_file": "k20.webp"
+        },
+        {
+          "image_file": "k21.webp"
+        },
+        {
+          "image_file": "k22.webp"
+        },
+        {
+          "image_file": "k23.webp"
+        },
+        {
+          "image_file": "k24.webp"
+        },
+        {
+          "image_file": "k25.webp"
+        },
+        {
+          "image_file": "k26.webp"
+        },
+        {
+          "image_file": "k27.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "35",
+      "name": "Broken animals",
+      "publisher": "Animales graciosos",
+      "tray_image_file": "bafondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ba1.webp"
+        },
+        {
+          "image_file": "ba2.webp"
+        },
+        {
+          "image_file": "ba3.webp"
+        },
+        {
+          "image_file": "ba4.webp"
+        },
+        {
+          "image_file": "ba5.webp"
+        },
+        {
+          "image_file": "ba6.webp"
+        },
+        {
+          "image_file": "ba7.webp"
+        },
+        {
+          "image_file": "ba8.webp"
+        },
+        {
+          "image_file": "ba9.webp"
+        },
+        {
+          "image_file": "ba10.webp"
+        },
+        {
+          "image_file": "ba11.webp"
+        },
+        {
+          "image_file": "ba12.webp"
+        },
+        {
+          "image_file": "ba13.webp"
+        },
+        {
+          "image_file": "ba14.webp"
+        },
+        {
+          "image_file": "ba15.webp"
+        },
+        {
+          "image_file": "ba16.webp"
+        },
+        {
+          "image_file": "ba17.webp"
+        },
+        {
+          "image_file": "ba18.webp"
+        },
+        {
+          "image_file": "ba19.webp"
+        },
+        {
+          "image_file": "ba20.webp"
+        },
+        {
+          "image_file": "ba21.webp"
+        },
+        {
+          "image_file": "ba22.webp"
+        },
+        {
+          "image_file": "ba23.webp"
+        },
+        {
+          "image_file": "ba24.webp"
+        },
+        {
+          "image_file": "ba25.webp"
+        },
+        {
+          "image_file": "ba26.webp"
+        },
+        {
+          "image_file": "ba27.webp"
+        },
+        {
+          "image_file": "ba28.webp"
+        },
+        {
+          "image_file": "ba29.webp"
+        },
+        {
+          "image_file": "ba30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "36",
+      "name": "Oh this life",
+      "publisher": "Telegram",
+      "tray_image_file": "ohfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "oh1.webp"
+        },
+        {
+          "image_file": "oh2.webp"
+        },
+        {
+          "image_file": "oh3.webp"
+        },
+        {
+          "image_file": "oh4.webp"
+        },
+        {
+          "image_file": "oh5.webp"
+        },
+        {
+          "image_file": "oh6.webp"
+        },
+        {
+          "image_file": "oh7.webp"
+        },
+        {
+          "image_file": "oh8.webp"
+        },
+        {
+          "image_file": "oh9.webp"
+        },
+        {
+          "image_file": "oh10.webp"
+        },
+        {
+          "image_file": "oh11.webp"
+        },
+        {
+          "image_file": "oh12.webp"
+        },
+        {
+          "image_file": "oh13.webp"
+        },
+        {
+          "image_file": "oh14.webp"
+        },
+        {
+          "image_file": "oh15.webp"
+        },
+        {
+          "image_file": "oh16.webp"
+        },
+        {
+          "image_file": "oh17.webp"
+        },
+        {
+          "image_file": "oh18.webp"
+        },
+        {
+          "image_file": "oh19.webp"
+        },
+        {
+          "image_file": "oh20.webp"
+        },
+        {
+          "image_file": "oh21.webp"
+        },
+        {
+          "image_file": "oh22.webp"
+        },
+        {
+          "image_file": "oh23.webp"
+        },
+        {
+          "image_file": "oh24.webp"
+        },
+        {
+          "image_file": "oh25.webp"
+        },
+        {
+          "image_file": "oh26.webp"
+        },
+        {
+          "image_file": "oh27.webp"
+        },
+        {
+          "image_file": "oh28.webp"
+        },
+        {
+          "image_file": "oh29.webp"
+        },
+        {
+          "image_file": "oh30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "37",
+      "name": "Kooky Cat",
+      "publisher": "Telegram",
+      "tray_image_file": "kookycatfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "kookycat1.webp"
+        },
+        {
+          "image_file": "kookycat2.webp"
+        },
+        {
+          "image_file": "kookycat3.webp"
+        },
+        {
+          "image_file": "kookycat4.webp"
+        },
+        {
+          "image_file": "kookycat5.webp"
+        },
+        {
+          "image_file": "kookycat6.webp"
+        },
+        {
+          "image_file": "kookycat7.webp"
+        },
+        {
+          "image_file": "kookycat8.webp"
+        },
+        {
+          "image_file": "kookycat9.webp"
+        },
+        {
+          "image_file": "kookycat10.webp"
+        },
+        {
+          "image_file": "kookycat11.webp"
+        },
+        {
+          "image_file": "kookycat12.webp"
+        },
+        {
+          "image_file": "kookycat13.webp"
+        },
+        {
+          "image_file": "kookycat14.webp"
+        },
+        {
+          "image_file": "kookycat15.webp"
+        },
+        {
+          "image_file": "kookycat16.webp"
+        },
+        {
+          "image_file": "kookycat17.webp"
+        },
+        {
+          "image_file": "kookycat18.webp"
+        },
+        {
+          "image_file": "kookycat19.webp"
+        },
+        {
+          "image_file": "kookycat20.webp"
+        },
+        {
+          "image_file": "kookycat21.webp"
+        },
+        {
+          "image_file": "kookycat22.webp"
+        },
+        {
+          "image_file": "kookycat23.webp"
+        },
+        {
+          "image_file": "kookycat24.webp"
+        },
+        {
+          "image_file": "kookycat25.webp"
+        },
+        {
+          "image_file": "kookycat26.webp"
+        },
+        {
+          "image_file": "kookycat27.webp"
+        },
+        {
+          "image_file": "kookycat28.webp"
+        },
+        {
+          "image_file": "kookycat29.webp"
+        },
+        {
+          "image_file": "kookycat30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "38",
+      "name": "Tom y Jerry",
+      "publisher": "Telegram",
+      "tray_image_file": "tomyjerryfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "tom1.webp"
+        },
+        {
+          "image_file": "tom2.webp"
+        },
+        {
+          "image_file": "tom3.webp"
+        },
+        {
+          "image_file": "tom4.webp"
+        },
+        {
+          "image_file": "tom5.webp"
+        },
+        {
+          "image_file": "tom6.webp"
+        },
+        {
+          "image_file": "tom7.webp"
+        },
+        {
+          "image_file": "tom8.webp"
+        },
+        {
+          "image_file": "tom9.webp"
+        },
+        {
+          "image_file": "tom10.webp"
+        },
+        {
+          "image_file": "tom11.webp"
+        },
+        {
+          "image_file": "tom12.webp"
+        },
+        {
+          "image_file": "tom13.webp"
+        },
+        {
+          "image_file": "tom14.webp"
+        },
+        {
+          "image_file": "tom15.webp"
+        },
+        {
+          "image_file": "tom16.webp"
+        },
+        {
+          "image_file": "tom17.webp"
+        },
+        {
+          "image_file": "tom18.webp"
+        },
+        {
+          "image_file": "tom19.webp"
+        },
+        {
+          "image_file": "tom20.webp"
+        },
+        {
+          "image_file": "tom21.webp"
+        },
+        {
+          "image_file": "tom22.webp"
+        },
+        {
+          "image_file": "tom23.webp"
+        },
+        {
+          "image_file": "tom24.webp"
+        },
+        {
+          "image_file": "tom25.webp"
+        },
+        {
+          "image_file": "tom26.webp"
+        },
+        {
+          "image_file": "tom27.webp"
+        },
+        {
+          "image_file": "tom28.webp"
+        },
+        {
+          "image_file": "tom29.webp"
+        },
+        {
+          "image_file": "tom30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Rabbid stickers",
+      "publisher": "Rabbid movie",
+      "tray_image_file": "fondo-rabbid.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rabbid-1.webp"
+        },
+        {
+          "image_file": "rabbid-2.webp"
+        },
+        {
+          "image_file": "rabbid-3.webp"
+        },
+        {
+          "image_file": "rabbid-4.webp"
+        },
+        {
+          "image_file": "rabbid-5.webp"
+        },
+        {
+          "image_file": "rabbid-6.webp"
+        },
+        {
+          "image_file": "rabbid-7.webp"
+        },
+        {
+          "image_file": "rabbid-8.webp"
+        },
+        {
+          "image_file": "rabbid-9.webp"
+        },
+        {
+          "image_file": "rabbid-10.webp"
+        },
+        {
+          "image_file": "rabbid-11.webp"
+        },
+        {
+          "image_file": "rabbid-12.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "39",
+      "name": "Japanese Kitty",
+      "publisher": "Telegram",
+      "tray_image_file": "jkfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "jk1.webp"
+        },
+        {
+          "image_file": "jk2.webp"
+        },
+        {
+          "image_file": "jk3.webp"
+        },
+        {
+          "image_file": "jk4.webp"
+        },
+        {
+          "image_file": "jk5.webp"
+        },
+        {
+          "image_file": "jk6.webp"
+        },
+        {
+          "image_file": "jk7.webp"
+        },
+        {
+          "image_file": "jk8.webp"
+        },
+        {
+          "image_file": "jk9.webp"
+        },
+        {
+          "image_file": "jk10.webp"
+        },
+        {
+          "image_file": "jk11.webp"
+        },
+        {
+          "image_file": "jk12.webp"
+        },
+        {
+          "image_file": "jk13.webp"
+        },
+        {
+          "image_file": "jk14.webp"
+        },
+        {
+          "image_file": "jk15.webp"
+        },
+        {
+          "image_file": "jk16.webp"
+        },
+        {
+          "image_file": "jk17.webp"
+        },
+        {
+          "image_file": "jk18.webp"
+        },
+        {
+          "image_file": "jk19.webp"
+        },
+        {
+          "image_file": "jk20.webp"
+        },
+        {
+          "image_file": "jk21.webp"
+        },
+        {
+          "image_file": "jk22.webp"
+        },
+        {
+          "image_file": "jk23.webp"
+        },
+        {
+          "image_file": "jk24.webp"
+        },
+        {
+          "image_file": "jk25.webp"
+        },
+        {
+          "image_file": "jk26.webp"
+        },
+        {
+          "image_file": "jk27.webp"
+        },
+        {
+          "image_file": "jk28.webp"
+        },
+        {
+          "image_file": "jk29.webp"
+        },
+        {
+          "image_file": "jk30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "30",
+      "name": "Pennywise",
+      "publisher": "Telegram",
+      "tray_image_file": "pennyfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1p.webp"
+        },
+        {
+          "image_file": "2p.webp"
+        },
+        {
+          "image_file": "3p.webp"
+        },
+        {
+          "image_file": "4p.webp"
+        },
+        {
+          "image_file": "5p.webp"
+        },
+        {
+          "image_file": "6p.webp"
+        },
+        {
+          "image_file": "7p.webp"
+        },
+        {
+          "image_file": "8p.webp"
+        },
+        {
+          "image_file": "9p.webp"
+        },
+        {
+          "image_file": "10p.webp"
+        },
+        {
+          "image_file": "11p.webp"
+        },
+        {
+          "image_file": "12p.webp"
+        },
+        {
+          "image_file": "13p.webp"
+        },
+        {
+          "image_file": "14p.webp"
+        },
+        {
+          "image_file": "15p.webp"
+        },
+        {
+          "image_file": "16p.webp"
+        },
+        {
+          "image_file": "17p.webp"
+        },
+        {
+          "image_file": "18p.webp"
+        },
+        {
+          "image_file": "19p.webp"
+        },
+        {
+          "image_file": "20p.webp"
+        },
+        {
+          "image_file": "21p.webp"
+        },
+        {
+          "image_file": "22p.webp"
+        },
+        {
+          "image_file": "23p.webp"
+        },
+        {
+          "image_file": "24p.webp"
+        },
+        {
+          "image_file": "25p.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "40",
+      "name": "Deadpool",
+      "publisher": "Telegram",
+      "tray_image_file": "deadpool.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "d1.webp"
+        },
+        {
+          "image_file": "d2.webp"
+        },
+        {
+          "image_file": "d3.webp"
+        },
+        {
+          "image_file": "d4.webp"
+        },
+        {
+          "image_file": "d5.webp"
+        },
+        {
+          "image_file": "d6.webp"
+        },
+        {
+          "image_file": "d7.webp"
+        },
+        {
+          "image_file": "d8.webp"
+        },
+        {
+          "image_file": "d9.webp"
+        },
+        {
+          "image_file": "d10.webp"
+        },
+        {
+          "image_file": "d11.webp"
+        },
+        {
+          "image_file": "d12.webp"
+        },
+        {
+          "image_file": "d13.webp"
+        },
+        {
+          "image_file": "d14.webp"
+        },
+        {
+          "image_file": "d15.webp"
+        },
+        {
+          "image_file": "d16.webp"
+        },
+        {
+          "image_file": "d17.webp"
+        },
+        {
+          "image_file": "d18.webp"
+        },
+        {
+          "image_file": "d19.webp"
+        },
+        {
+          "image_file": "d20.webp"
+        },
+        {
+          "image_file": "d21.webp"
+        },
+        {
+          "image_file": "d23.webp"
+        },
+        {
+          "image_file": "d24.webp"
+        },
+        {
+          "image_file": "d25.webp"
+        },
+        {
+          "image_file": "d26.webp"
+        },
+        {
+          "image_file": "d27.webp"
+        },
+        {
+          "image_file": "d28.webp"
+        },
+        {
+          "image_file": "d29.webp"
+        },
+        {
+          "image_file": "d30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Pepe paquete 1",
+      "publisher": "FawLog",
+      "tray_image_file": "ppfondo1.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pp1.webp"
+        },
+        {
+          "image_file": "pp2.webp"
+        },
+        {
+          "image_file": "pp3.webp"
+        },
+        {
+          "image_file": "pp4.webp"
+        },
+        {
+          "image_file": "pp5.webp"
+        },
+        {
+          "image_file": "pp6.webp"
+        },
+        {
+          "image_file": "pp7.webp"
+        },
+        {
+          "image_file": "pp8.webp"
+        },
+        {
+          "image_file": "pp9.webp"
+        },
+        {
+          "image_file": "pp10.webp"
+        },
+        {
+          "image_file": "pp11.webp"
+        },
+        {
+          "image_file": "pp12.webp"
+        },
+        {
+          "image_file": "pp13.webp"
+        },
+        {
+          "image_file": "pp14.webp"
+        },
+        {
+          "image_file": "pp15.webp"
+        },
+        {
+          "image_file": "pp16.webp"
+        },
+        {
+          "image_file": "pp17.webp"
+        },
+        {
+          "image_file": "pp18.webp"
+        },
+        {
+          "image_file": "pp19.webp"
+        },
+        {
+          "image_file": "pp20.webp"
+        },
+        {
+          "image_file": "pp21.webp"
+        },
+        {
+          "image_file": "pp22.webp"
+        },
+        {
+          "image_file": "pp23.webp"
+        },
+        {
+          "image_file": "pp24.webp"
+        },
+        {
+          "image_file": "pp25.webp"
+        },
+        {
+          "image_file": "pp26.webp"
+        },
+        {
+          "image_file": "pp27.webp"
+        },
+        {
+          "image_file": "pp28.webp"
+        },
+        {
+          "image_file": "pp29.webp"
+        },
+        {
+          "image_file": "pp30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "27",
+      "name": "Pepe paquete 2",
+      "publisher": "FawLog",
+      "tray_image_file": "ppfondo2.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pp32.webp"
+        },
+        {
+          "image_file": "pp33.webp"
+        },
+        {
+          "image_file": "pp34.webp"
+        },
+        {
+          "image_file": "pp35.webp"
+        },
+        {
+          "image_file": "pp36.webp"
+        },
+        {
+          "image_file": "pp37.webp"
+        },
+        {
+          "image_file": "pp38.webp"
+        },
+        {
+          "image_file": "pp39.webp"
+        },
+        {
+          "image_file": "pp40.webp"
+        },
+        {
+          "image_file": "pp41.webp"
+        },
+        {
+          "image_file": "pp42.webp"
+        },
+        {
+          "image_file": "pp43.webp"
+        },
+        {
+          "image_file": "pp44.webp"
+        },
+        {
+          "image_file": "pp45.webp"
+        },
+        {
+          "image_file": "pp46.webp"
+        },
+        {
+          "image_file": "pp47.webp"
+        },
+        {
+          "image_file": "pp48.webp"
+        },
+        {
+          "image_file": "pp49.webp"
+        },
+        {
+          "image_file": "pp50.webp"
+        },
+        {
+          "image_file": "pp51.webp"
+        },
+        {
+          "image_file": "pp52.webp"
+        },
+        {
+          "image_file": "pp53.webp"
+        },
+        {
+          "image_file": "pp54.webp"
+        },
+        {
+          "image_file": "pp55.webp"
+        },
+        {
+          "image_file": "pp56.webp"
+        },
+        {
+          "image_file": "pp57.webp"
+        },
+        {
+          "image_file": "pp58.webp"
+        },
+        {
+          "image_file": "pp59.webp"
+        },
+        {
+          "image_file": "pp60.webp"
+        },
+        {
+          "image_file": "pp61.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "25",
+      "name": "Halloween Memes",
+      "publisher": "Alexander Scherbina",
+      "tray_image_file": "hfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1h.webp"
+        },
+        {
+          "image_file": "2h.webp"
+        },
+        {
+          "image_file": "3h.webp"
+        },
+        {
+          "image_file": "4h.webp"
+        },
+        {
+          "image_file": "5h.webp"
+        },
+        {
+          "image_file": "6h.webp"
+        },
+        {
+          "image_file": "7h.webp"
+        },
+        {
+          "image_file": "8h.webp"
+        },
+        {
+          "image_file": "9h.webp"
+        },
+        {
+          "image_file": "10h.webp"
+        },
+        {
+          "image_file": "11h.webp"
+        },
+        {
+          "image_file": "12h.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "29",
+      "name": "Halloween Stickers",
+      "publisher": "Stickpng.com",
+      "tray_image_file": "halloweenfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "hallow1.webp"
+        },
+        {
+          "image_file": "hallow2.webp"
+        },
+        {
+          "image_file": "hallow3.webp"
+        },
+        {
+          "image_file": "hallow4.webp"
+        },
+        {
+          "image_file": "hallow5.webp"
+        },
+        {
+          "image_file": "hallow6.webp"
+        },
+        {
+          "image_file": "hallow7.webp"
+        },
+        {
+          "image_file": "hallow8.webp"
+        },
+        {
+          "image_file": "hallow9.webp"
+        },
+        {
+          "image_file": "hallow10.webp"
+        },
+        {
+          "image_file": "hallow11.webp"
+        },
+        {
+          "image_file": "hallow12.webp"
+        },
+        {
+          "image_file": "hallow13.webp"
+        },
+        {
+          "image_file": "hallow14.webp"
+        },
+        {
+          "image_file": "hallow15.webp"
+        },
+        {
+          "image_file": "hallow16.webp"
+        },
+        {
+          "image_file": "hallow17.webp"
+        },
+        {
+          "image_file": "hallow18.webp"
+        },
+        {
+          "image_file": "hallow19.webp"
+        },
+        {
+          "image_file": "hallow20.webp"
+        },
+        {
+          "image_file": "hallow21.webp"
+        },
+        {
+          "image_file": "hallow22.webp"
+        },
+        {
+          "image_file": "hallow23.webp"
+        },
+        {
+          "image_file": "hallow24.webp"
+        },
+        {
+          "image_file": "hallow25.webp"
+        },
+        {
+          "image_file": "hallow26.webp"
+        },
+        {
+          "image_file": "hallow27.webp"
+        },
+        {
+          "image_file": "hallow28.webp"
+        },
+        {
+          "image_file": "hallow29.webp"
+        },
+        {
+          "image_file": "hallow30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "26",
+      "name": "Rage Comics",
+      "publisher": "Telegram",
+      "tray_image_file": "ragefondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1rage.webp"
+        },
+        {
+          "image_file": "2rage.webp"
+        },
+        {
+          "image_file": "3rage.webp"
+        },
+        {
+          "image_file": "4rage.webp"
+        },
+        {
+          "image_file": "5rage.webp"
+        },
+        {
+          "image_file": "6rage.webp"
+        },
+        {
+          "image_file": "7rage.webp"
+        },
+        {
+          "image_file": "8rage.webp"
+        },
+        {
+          "image_file": "9rage.webp"
+        },
+        {
+          "image_file": "10rage.webp"
+        },
+        {
+          "image_file": "11rage.webp"
+        },
+        {
+          "image_file": "12rage.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "31",
+      "name": "Dogs stickers",
+      "publisher": "Stick png",
+      "tray_image_file": "dogsfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "dog1.webp"
+        },
+        {
+          "image_file": "dog2.webp"
+        },
+        {
+          "image_file": "dog3.webp"
+        },
+        {
+          "image_file": "dog4.webp"
+        },
+        {
+          "image_file": "dog5.webp"
+        },
+        {
+          "image_file": "dog6.webp"
+        },
+        {
+          "image_file": "dog7.webp"
+        },
+        {
+          "image_file": "dog8.webp"
+        },
+        {
+          "image_file": "dog9.webp"
+        },
+        {
+          "image_file": "dog10.webp"
+        },
+        {
+          "image_file": "dog11.webp"
+        },
+        {
+          "image_file": "dog12.webp"
+        },
+        {
+          "image_file": "dog13.webp"
+        },
+        {
+          "image_file": "dog14.webp"
+        },
+        {
+          "image_file": "dog15.webp"
+        },
+        {
+          "image_file": "dog16.webp"
+        },
+        {
+          "image_file": "dog17.webp"
+        },
+        {
+          "image_file": "dog18.webp"
+        },
+        {
+          "image_file": "dog19.webp"
+        },
+        {
+          "image_file": "dog20.webp"
+        },
+        {
+          "image_file": "dog21.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "32",
+      "name": "Broken Cats",
+      "publisher": "Telegram",
+      "tray_image_file": "bcfondopaq1.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bc1.webp"
+        },
+        {
+          "image_file": "bc2.webp"
+        },
+        {
+          "image_file": "bc3.webp"
+        },
+        {
+          "image_file": "bc4.webp"
+        },
+        {
+          "image_file": "bc5.webp"
+        },
+        {
+          "image_file": "bc6.webp"
+        },
+        {
+          "image_file": "bc7.webp"
+        },
+        {
+          "image_file": "bc8.webp"
+        },
+        {
+          "image_file": "bc9.webp"
+        },
+        {
+          "image_file": "bc10.webp"
+        },
+        {
+          "image_file": "bc11.webp"
+        },
+        {
+          "image_file": "bc12.webp"
+        },
+        {
+          "image_file": "bc13.webp"
+        },
+        {
+          "image_file": "bc14.webp"
+        },
+        {
+          "image_file": "bc15.webp"
+        },
+        {
+          "image_file": "bc16.webp"
+        },
+        {
+          "image_file": "bc17.webp"
+        },
+        {
+          "image_file": "bc18.webp"
+        },
+        {
+          "image_file": "bc19.webp"
+        },
+        {
+          "image_file": "bc20.webp"
+        },
+        {
+          "image_file": "bc21.webp"
+        },
+        {
+          "image_file": "bc22.webp"
+        },
+        {
+          "image_file": "bc23.webp"
+        },
+        {
+          "image_file": "bc24.webp"
+        },
+        {
+          "image_file": "bc25.webp"
+        },
+        {
+          "image_file": "bc26.webp"
+        },
+        {
+          "image_file": "bc27.webp"
+        },
+        {
+          "image_file": "bc28.webp"
+        },
+        {
+          "image_file": "bc29.webp"
+        },
+        {
+          "image_file": "bc30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "33",
+      "name": "Broken Cats 2",
+      "publisher": "Telegram",
+      "tray_image_file": "bcfondo2.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bc34.webp"
+        },
+        {
+          "image_file": "bc35.webp"
+        },
+        {
+          "image_file": "bc36.webp"
+        },
+        {
+          "image_file": "bc37.webp"
+        },
+        {
+          "image_file": "bc38.webp"
+        },
+        {
+          "image_file": "bc39.webp"
+        },
+        {
+          "image_file": "bc40.webp"
+        },
+        {
+          "image_file": "bc41.webp"
+        },
+        {
+          "image_file": "bc42.webp"
+        },
+        {
+          "image_file": "bc43.webp"
+        },
+        {
+          "image_file": "bc44.webp"
+        },
+        {
+          "image_file": "bc45.webp"
+        },
+        {
+          "image_file": "bc46.webp"
+        },
+        {
+          "image_file": "bc47.webp"
+        },
+        {
+          "image_file": "bc48.webp"
+        },
+        {
+          "image_file": "bc49.webp"
+        },
+        {
+          "image_file": "bc50.webp"
+        },
+        {
+          "image_file": "bc51.webp"
+        },
+        {
+          "image_file": "bc52.webp"
+        },
+        {
+          "image_file": "bc53.webp"
+        },
+        {
+          "image_file": "bc54.webp"
+        },
+        {
+          "image_file": "bc55.webp"
+        },
+        {
+          "image_file": "bc56.webp"
+        },
+        {
+          "image_file": "bc57.webp"
+        },
+        {
+          "image_file": "bc58.webp"
+        },
+        {
+          "image_file": "bc59.webp"
+        },
+        {
+          "image_file": "bc60.webp"
+        },
+        {
+          "image_file": "bc61.webp"
+        },
+        {
+          "image_file": "bc62.webp"
+        },
+        {
+          "image_file": "bc63.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Cinema movies 1",
+      "publisher": "Telegram",
+      "tray_image_file": "cinemafondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "cinema31.webp"
+        },
+        {
+          "image_file": "cinema32.webp"
+        },
+        {
+          "image_file": "cinema33.webp"
+        },
+        {
+          "image_file": "cinema34.webp"
+        },
+        {
+          "image_file": "cinema35.webp"
+        },
+        {
+          "image_file": "cinema36.webp"
+        },
+        {
+          "image_file": "cinema37.webp"
+        },
+        {
+          "image_file": "cinema38.webp"
+        },
+        {
+          "image_file": "cinema39.webp"
+        },
+        {
+          "image_file": "cinema40.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "28",
+      "name": "Cinema movies 2",
+      "publisher": "Telegram",
+      "tray_image_file": "cinemafondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "cinema1.webp"
+        },
+        {
+          "image_file": "cinema2.webp"
+        },
+        {
+          "image_file": "cinema3.webp"
+        },
+        {
+          "image_file": "cinema4.webp"
+        },
+        {
+          "image_file": "cinema5.webp"
+        },
+        {
+          "image_file": "cinema6.webp"
+        },
+        {
+          "image_file": "cinema7.webp"
+        },
+        {
+          "image_file": "cinema8.webp"
+        },
+        {
+          "image_file": "cinema9.webp"
+        },
+        {
+          "image_file": "cinema10.webp"
+        },
+        {
+          "image_file": "cinema11.webp"
+        },
+        {
+          "image_file": "cinema13.webp"
+        },
+        {
+          "image_file": "cinema14.webp"
+        },
+        {
+          "image_file": "cinema15.webp"
+        },
+        {
+          "image_file": "cinema16.webp"
+        },
+        {
+          "image_file": "cinema17.webp"
+        },
+        {
+          "image_file": "cinema18.webp"
+        },
+        {
+          "image_file": "cinema19.webp"
+        },
+        {
+          "image_file": "cinema20.webp"
+        },
+        {
+          "image_file": "cinema21.webp"
+        },
+        {
+          "image_file": "cinema22.webp"
+        },
+        {
+          "image_file": "cinema23.webp"
+        },
+        {
+          "image_file": "cinema24.webp"
+        },
+        {
+          "image_file": "cinema25.webp"
+        },
+        {
+          "image_file": "cinema26.webp"
+        },
+        {
+          "image_file": "cinema27.webp"
+        },
+        {
+          "image_file": "cinema28.webp"
+        },
+        {
+          "image_file": "cinema29.webp"
+        },
+        {
+          "image_file": "cinema30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Jason Viernes 13",
+      "publisher": "Telegram",
+      "tray_image_file": "jasonfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "jason1.webp"
+        },
+        {
+          "image_file": "jason2.webp"
+        },
+        {
+          "image_file": "jason3.webp"
+        },
+        {
+          "image_file": "jason4.webp"
+        },
+        {
+          "image_file": "jason5.webp"
+        },
+        {
+          "image_file": "jason6.webp"
+        },
+        {
+          "image_file": "jason7.webp"
+        },
+        {
+          "image_file": "jason8.webp"
+        },
+        {
+          "image_file": "jason9.webp"
+        },
+        {
+          "image_file": "jason10.webp"
+        },
+        {
+          "image_file": "jason11.webp"
+        },
+        {
+          "image_file": "jason12.webp"
+        },
+        {
+          "image_file": "jason13.webp"
+        },
+        {
+          "image_file": "jason14.webp"
+        },
+        {
+          "image_file": "jason15.webp"
+        },
+        {
+          "image_file": "jason16.webp"
+        },
+        {
+          "image_file": "jason17.webp"
+        },
+        {
+          "image_file": "jason18.webp"
+        },
+        {
+          "image_file": "jason19.webp"
+        },
+        {
+          "image_file": "jason20.webp"
+        },
+        {
+          "image_file": "jason21.webp"
+        },
+        {
+          "image_file": "jason22.webp"
+        },
+        {
+          "image_file": "jason23.webp"
+        },
+        {
+          "image_file": "jason24.webp"
+        },
+        {
+          "image_file": "jason25.webp"
+        },
+        {
+          "image_file": "jason26.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Homer Simpson",
+      "publisher": "Telegram",
+      "tray_image_file": "homerfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "homer1.webp"
+        },
+        {
+          "image_file": "homer2.webp"
+        },
+        {
+          "image_file": "homer3.webp"
+        },
+        {
+          "image_file": "homer4.webp"
+        },
+        {
+          "image_file": "homer5.webp"
+        },
+        {
+          "image_file": "homer6.webp"
+        },
+        {
+          "image_file": "homer7.webp"
+        },
+        {
+          "image_file": "homer8.webp"
+        },
+        {
+          "image_file": "homer9.webp"
+        },
+        {
+          "image_file": "homer10.webp"
+        },
+        {
+          "image_file": "homer11.webp"
+        },
+        {
+          "image_file": "homer12.webp"
+        },
+        {
+          "image_file": "homer13.webp"
+        },
+        {
+          "image_file": "homer14.webp"
+        },
+        {
+          "image_file": "homer15.webp"
+        },
+        {
+          "image_file": "homer16.webp"
+        },
+        {
+          "image_file": "homer17.webp"
+        },
+        {
+          "image_file": "homer18.webp"
+        },
+        {
+          "image_file": "homer19.webp"
+        },
+        {
+          "image_file": "homer20.webp"
+        },
+        {
+          "image_file": "homer21.webp"
+        },
+        {
+          "image_file": "homer22.webp"
+        },
+        {
+          "image_file": "homer23.webp"
+        },
+        {
+          "image_file": "homer24.webp"
+        },
+        {
+          "image_file": "homer25.webp"
+        },
+        {
+          "image_file": "homer26.webp"
+        },
+        {
+          "image_file": "homer27.webp"
+        },
+        {
+          "image_file": "homer28.webp"
+        },
+        {
+          "image_file": "homer29.webp"
+        },
+        {
+          "image_file": "homer30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "24",
+      "name": "Avengers",
+      "publisher": "Telegram",
+      "tray_image_file": "avengersfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "av1.webp"
+        },
+        {
+          "image_file": "av2.webp"
+        },
+        {
+          "image_file": "av3.webp"
+        },
+        {
+          "image_file": "av4.webp"
+        },
+        {
+          "image_file": "av5.webp"
+        },
+        {
+          "image_file": "av6.webp"
+        },
+        {
+          "image_file": "av7.webp"
+        },
+        {
+          "image_file": "av8.webp"
+        },
+        {
+          "image_file": "av9.webp"
+        },
+        {
+          "image_file": "av10.webp"
+        },
+        {
+          "image_file": "av11.webp"
+        },
+        {
+          "image_file": "av12.webp"
+        },
+        {
+          "image_file": "av13.webp"
+        },
+        {
+          "image_file": "av14.webp"
+        },
+        {
+          "image_file": "av15.webp"
+        },
+        {
+          "image_file": "av16.webp"
+        },
+        {
+          "image_file": "av17.webp"
+        },
+        {
+          "image_file": "av18.webp"
+        },
+        {
+          "image_file": "av19.webp"
+        },
+        {
+          "image_file": "av20.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Harry Potter",
+      "publisher": "by Анна Шумская",
+      "tray_image_file": "harry-fondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "harry1.webp"
+        },
+        {
+          "image_file": "harry2.webp"
+        },
+        {
+          "image_file": "harry3.webp"
+        },
+        {
+          "image_file": "harry4.webp"
+        },
+        {
+          "image_file": "harry5.webp"
+        },
+        {
+          "image_file": "harry6.webp"
+        },
+        {
+          "image_file": "harry7.webp"
+        },
+        {
+          "image_file": "harry8.webp"
+        },
+        {
+          "image_file": "harry9.webp"
+        },
+        {
+          "image_file": "harry10.webp"
+        },
+        {
+          "image_file": "harry11.webp"
+        },
+        {
+          "image_file": "harry12.webp"
+        },
+        {
+          "image_file": "harry13.webp"
+        },
+        {
+          "image_file": "harry14.webp"
+        },
+        {
+          "image_file": "harry15.webp"
+        },
+        {
+          "image_file": "harry16.webp"
+        },
+        {
+          "image_file": "harry17.webp"
+        },
+        {
+          "image_file": "harry18.webp"
+        },
+        {
+          "image_file": "harry19.webp"
+        },
+        {
+          "image_file": "harry20.webp"
+        },
+        {
+          "image_file": "harry21.webp"
+        },
+        {
+          "image_file": "harry22.webp"
+        },
+        {
+          "image_file": "harry23.webp"
+        },
+        {
+          "image_file": "harry24.webp"
+        },
+        {
+          "image_file": "harry25.webp"
+        },
+        {
+          "image_file": "harry26.webp"
+        },
+        {
+          "image_file": "harry27.webp"
+        },
+        {
+          "image_file": "harry28.webp"
+        },
+        {
+          "image_file": "harry29.webp"
+        },
+        {
+          "image_file": "harry30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "21",
+      "name": "Christmas Dog",
+      "publisher": "Telegram Team",
+      "tray_image_file": "cdogfondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "cdog1.webp"
+        },
+        {
+          "image_file": "cdog2.webp"
+        },
+        {
+          "image_file": "cdog3.webp"
+        },
+        {
+          "image_file": "cdog4.webp"
+        },
+        {
+          "image_file": "cdog5.webp"
+        },
+        {
+          "image_file": "cdog6.webp"
+        },
+        {
+          "image_file": "cdog7.webp"
+        },
+        {
+          "image_file": "cdog8.webp"
+        },
+        {
+          "image_file": "cdog9.webp"
+        },
+        {
+          "image_file": "cdog10.webp"
+        },
+        {
+          "image_file": "cdog11.webp"
+        },
+        {
+          "image_file": "cdog12.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Cyanide happiness",
+      "publisher": "Un experto en stickers",
+      "tray_image_file": "cyanidefondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "c1.webp"
+        },
+        {
+          "image_file": "c2.webp"
+        },
+        {
+          "image_file": "c3.webp"
+        },
+        {
+          "image_file": "c4.webp"
+        },
+        {
+          "image_file": "c5.webp"
+        },
+        {
+          "image_file": "c6.webp"
+        },
+        {
+          "image_file": "c7.webp"
+        },
+        {
+          "image_file": "c8.webp"
+        },
+        {
+          "image_file": "c9.webp"
+        },
+        {
+          "image_file": "c10.webp"
+        },
+        {
+          "image_file": "c11.webp"
+        },
+        {
+          "image_file": "c12.webp"
+        },
+        {
+          "image_file": "c13.webp"
+        },
+        {
+          "image_file": "c14.webp"
+        },
+        {
+          "image_file": "c15.webp"
+        },
+        {
+          "image_file": "c16.webp"
+        },
+        {
+          "image_file": "c17.webp"
+        },
+        {
+          "image_file": "c18.webp"
+        },
+        {
+          "image_file": "c19.webp"
+        },
+        {
+          "image_file": "c20.webp"
+        },
+        {
+          "image_file": "c21.webp"
+        },
+        {
+          "image_file": "c22.webp"
+        },
+        {
+          "image_file": "c23.webp"
+        },
+        {
+          "image_file": "c24.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "19",
+      "name": "Voldemort",
+      "publisher": "by NTLENT telegram",
+      "tray_image_file": "voldemort-fondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "volde1.webp"
+        },
+        {
+          "image_file": "volde2.webp"
+        },
+        {
+          "image_file": "volde3.webp"
+        },
+        {
+          "image_file": "volde4.webp"
+        },
+        {
+          "image_file": "volde5.webp"
+        },
+        {
+          "image_file": "volde6.webp"
+        },
+        {
+          "image_file": "volde7.webp"
+        },
+        {
+          "image_file": "volde8.webp"
+        },
+        {
+          "image_file": "volde9.webp"
+        },
+        {
+          "image_file": "volde10.webp"
+        },
+        {
+          "image_file": "volde11.webp"
+        },
+        {
+          "image_file": "volde12.webp"
+        },
+        {
+          "image_file": "volde13.webp"
+        },
+        {
+          "image_file": "volde14.webp"
+        },
+        {
+          "image_file": "volde15.webp"
+        },
+        {
+          "image_file": "volde16.webp"
+        },
+        {
+          "image_file": "volde17.webp"
+        },
+        {
+          "image_file": "volde18.webp"
+        },
+        {
+          "image_file": "volde19.webp"
+        },
+        {
+          "image_file": "volde20.webp"
+        },
+        {
+          "image_file": "volde21.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Cute Yeti",
+      "publisher": "Christmas by Telegram",
+      "tray_image_file": "fondocuteyeti.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "c1.webp"
+        },
+        {
+          "image_file": "c2.webp"
+        },
+        {
+          "image_file": "c3.webp"
+        },
+        {
+          "image_file": "c4.webp"
+        },
+        {
+          "image_file": "c5.webp"
+        },
+        {
+          "image_file": "c6.webp"
+        },
+        {
+          "image_file": "c7.webp"
+        },
+        {
+          "image_file": "c8.webp"
+        },
+        {
+          "image_file": "c9.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Grinch",
+      "publisher": "by Telegram",
+      "tray_image_file": "fondogrinch.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "g1.webp"
+        },
+        {
+          "image_file": "g2.webp"
+        },
+        {
+          "image_file": "g3.webp"
+        },
+        {
+          "image_file": "g4.webp"
+        },
+        {
+          "image_file": "g5.webp"
+        },
+        {
+          "image_file": "g6.webp"
+        },
+        {
+          "image_file": "g7.webp"
+        },
+        {
+          "image_file": "g8.webp"
+        },
+        {
+          "image_file": "g9.webp"
+        },
+        {
+          "image_file": "g10.webp"
+        },
+        {
+          "image_file": "g11.webp"
+        },
+        {
+          "image_file": "g12.webp"
+        },
+        {
+          "image_file": "g13.webp"
+        },
+        {
+          "image_file": "g14.webp"
+        },
+        {
+          "image_file": "g15.webp"
+        },
+        {
+          "image_file": "g16.webp"
+        },
+        {
+          "image_file": "g17.webp"
+        },
+        {
+          "image_file": "g18.webp"
+        },
+        {
+          "image_file": "g19.webp"
+        },
+        {
+          "image_file": "g20.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "1",
+      "name": "Santa Claus",
+      "publisher": "by Telegram",
+      "tray_image_file": "fondohoho.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ho1.webp"
+        },
+        {
+          "image_file": "ho2.webp"
+        },
+        {
+          "image_file": "ho3.webp"
+        },
+        {
+          "image_file": "ho4.webp"
+        },
+        {
+          "image_file": "ho5.webp"
+        },
+        {
+          "image_file": "ho6.webp"
+        },
+        {
+          "image_file": "ho7.webp"
+        },
+        {
+          "image_file": "ho8.webp"
+        },
+        {
+          "image_file": "ho9.webp"
+        },
+        {
+          "image_file": "ho10.webp"
+        },
+        {
+          "image_file": "ho11.webp"
+        },
+        {
+          "image_file": "ho12.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "Mr Deer",
+      "publisher": "by Telegram users",
+      "tray_image_file": "fondomrdeer.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "m1.webp"
+        },
+        {
+          "image_file": "m2.webp"
+        },
+        {
+          "image_file": "m3.webp"
+        },
+        {
+          "image_file": "m4.webp"
+        },
+        {
+          "image_file": "m5.webp"
+        },
+        {
+          "image_file": "m6.webp"
+        },
+        {
+          "image_file": "m7.webp"
+        },
+        {
+          "image_file": "m8.webp"
+        },
+        {
+          "image_file": "m9.webp"
+        },
+        {
+          "image_file": "m10.webp"
+        },
+        {
+          "image_file": "m11.webp"
+        },
+        {
+          "image_file": "m12.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "Merry Christmas",
+      "publisher": "by Stickers Png",
+      "tray_image_file": "fondomerrychristmas.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "element1.webp"
+        },
+        {
+          "image_file": "element2.webp"
+        },
+        {
+          "image_file": "element3.webp"
+        },
+        {
+          "image_file": "element4.webp"
+        },
+        {
+          "image_file": "element5.webp"
+        },
+        {
+          "image_file": "element6.webp"
+        },
+        {
+          "image_file": "element7.webp"
+        },
+        {
+          "image_file": "element8.webp"
+        },
+        {
+          "image_file": "element9.webp"
+        },
+        {
+          "image_file": "element10.webp"
+        },
+        {
+          "image_file": "element11.webp"
+        },
+        {
+          "image_file": "element12.webp"
+        },
+        {
+          "image_file": "element13.webp"
+        },
+        {
+          "image_file": "element14.webp"
+        },
+        {
+          "image_file": "element15.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Secret life stickers",
+      "publisher": "Movies",
+      "tray_image_file": "fondosecretlife.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "secretlife-1.webp"
+        },
+        {
+          "image_file": "secretlife-2.webp"
+        },
+        {
+          "image_file": "secretlife-3.webp"
+        },
+        {
+          "image_file": "secretlife-4.webp"
+        },
+        {
+          "image_file": "secretlife-5.webp"
+        },
+        {
+          "image_file": "secretlife-6.webp"
+        },
+        {
+          "image_file": "secretlife-7.webp"
+        },
+        {
+          "image_file": "secretlife-8.webp"
+        },
+        {
+          "image_file": "secretlife-9.webp"
+        },
+        {
+          "image_file": "secretlife-10.webp"
+        },
+        {
+          "image_file": "secretlife-11.webp"
+        },
+        {
+          "image_file": "secretlife-12.webp"
+        },
+        {
+          "image_file": "secretlife-13.webp"
+        },
+        {
+          "image_file": "secretlife-14.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Bob Esponja",
+      "publisher": "Telegram oficial",
+      "tray_image_file": "fondobobesponja.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bob1.webp"
+        },
+        {
+          "image_file": "bob2.webp"
+        },
+        {
+          "image_file": "bob3.webp"
+        },
+        {
+          "image_file": "bob4.webp"
+        },
+        {
+          "image_file": "bob5.webp"
+        },
+        {
+          "image_file": "bob6.webp"
+        },
+        {
+          "image_file": "bob7.webp"
+        },
+        {
+          "image_file": "bob8.webp"
+        },
+        {
+          "image_file": "bob9.webp"
+        },
+        {
+          "image_file": "bob10.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Memes graciosos",
+      "publisher": "Google imagenes ",
+      "tray_image_file": "memespack1fondo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "meme1.webp"
+        },
+        {
+          "image_file": "meme2.webp"
+        },
+        {
+          "image_file": "meme3.webp"
+        },
+        {
+          "image_file": "meme4.webp"
+        },
+        {
+          "image_file": "meme5.webp"
+        },
+        {
+          "image_file": "meme6.webp"
+        },
+        {
+          "image_file": "meme7.webp"
+        },
+        {
+          "image_file": "meme8.webp"
+        },
+        {
+          "image_file": "meme9.webp"
+        },
+        {
+          "image_file": "meme-10.webp"
+        },
+        {
+          "image_file": "meme-11.webp"
+        },
+        {
+          "image_file": "meme-12.webp"
+        },
+        {
+          "image_file": "meme-13.webp"
+        },
+        {
+          "image_file": "meme-14.webp"
+        },
+        {
+          "image_file": "meme-15.webp"
+        },
+        {
+          "image_file": "meme-16.webp"
+        },
+        {
+          "image_file": "meme-17.webp"
+        },
+        {
+          "image_file": "meme-18.webp"
+        },
+
+        {
+          "image_file": "meme-19.webp"
+        },
+        {
+          "image_file": "meme-20.webp"
+        },
+        {
+          "image_file": "meme-21.webp"
+        },
+        {
+          "image_file": "meme-22.webp"
+        },
+        {
+          "image_file": "meme-23.webp"
+        },
+        {
+          "image_file": "meme-24.webp"
+        },
+        {
+          "image_file": "meme-25.webp"
+        },
+        {
+          "image_file": "meme-26.webp"
+        },
+        {
+          "image_file": "meme-27.webp"
+        },
+        {
+          "image_file": "meme-28.webp"
+        },
+        {
+          "image_file": "meme-29.webp"
+        },
+        {
+          "image_file": "meme-30.webp"
+        }
+
+
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Memes pack 2",
+      "publisher": "Telegram oficial",
+      "tray_image_file": "fondopackmemes.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "meme-1.webp"
+        },
+        {
+          "image_file": "meme-2.webp"
+        },
+        {
+          "image_file": "meme-3.webp"
+        },
+        {
+          "image_file": "meme-4.webp"
+        },
+        {
+          "image_file": "meme-5.webp"
+        },
+        {
+          "image_file": "meme-6.webp"
+        },
+        {
+          "image_file": "meme-7.webp"
+        },
+        {
+          "image_file": "meme-8.webp"
+        },
+        {
+          "image_file": "meme-9.webp"
+        },
+        {
+          "image_file": "meme-10.webp"
+        },
+        {
+          "image_file": "meme-11.webp"
+        },
+        {
+          "image_file": "meme-12.webp"
+        },
+        {
+          "image_file": "meme-13.webp"
+        },
+        {
+          "image_file": "meme-14.webp"
+        },
+        {
+          "image_file": "meme-15.webp"
+        },
+        {
+          "image_file": "meme-16.webp"
+        },
+        {
+          "image_file": "meme-17.webp"
+        },
+        {
+          "image_file": "meme-18.webp"
+        },
+        {
+          "image_file": "meme-19.webp"
+        },
+        {
+          "image_file": "meme-20.webp"
+        },
+        {
+          "image_file": "meme-21.webp"
+        },
+        {
+          "image_file": "meme-22.webp"
+        },
+        {
+          "image_file": "meme-23.webp"
+        },
+        {
+          "image_file": "meme-24.webp"
+        },
+        {
+          "image_file": "meme-25.webp"
+        },
+        {
+          "image_file": "meme-26.webp"
+        },
+        {
+          "image_file": "meme-27.webp"
+        },
+        {
+          "image_file": "meme-28.webp"
+        },
+        {
+          "image_file": "meme-29.webp"
+        },
+        {
+          "image_file": "meme-30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "Memes pack 3",
+      "publisher": "Telegram oficial",
+      "tray_image_file": "fondomemes2.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "meme-65.webp"
+        },
+        {
+          "image_file": "meme-66.webp"
+        },
+        {
+          "image_file": "meme-67.webp"
+        },
+        {
+          "image_file": "meme-68.webp"
+        },
+        {
+          "image_file": "meme-69.webp"
+        },
+        {
+          "image_file": "meme-70.webp"
+        },
+        {
+          "image_file": "meme-71.webp"
+        },
+        {
+          "image_file": "meme-73.webp"
+        },
+        {
+          "image_file": "meme-78.webp"
+        },
+        {
+          "image_file": "meme-81.webp"
+        },
+        {
+          "image_file": "meme-82.webp"
+        },
+        {
+          "image_file": "meme-83.webp"
+        },
+        {
+          "image_file": "meme-84.webp"
+        },
+        {
+          "image_file": "meme-85.webp"
+        },
+        {
+          "image_file": "meme-86.webp"
+        },
+        {
+          "image_file": "meme-87.webp"
+        },
+        {
+          "image_file": "meme-88.webp"
+        },
+        {
+          "image_file": "meme-89.webp"
+        },
+        {
+          "image_file": "meme-90.webp"
+        },
+        {
+          "image_file": "meme-91.webp"
+        },
+        {
+          "image_file": "meme-92.webp"
+        },
+        {
+          "image_file": "meme-93.webp"
+        },
+        {
+          "image_file": "meme-94.webp"
+        },
+        {
+          "image_file": "meme-95.webp"
+        },
+        {
+          "image_file": "meme-96.webp"
+        },
+        {
+          "image_file": "meme-97.webp"
+        },
+        {
+          "image_file": "meme-98.webp"
+        },
+        {
+          "image_file": "meme-99.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Phil The Owl",
+      "publisher": "Telegram oficial",
+      "tray_image_file": "fondophil.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "phil1.webp"
+        },
+        {
+          "image_file": "phil2.webp"
+        },
+        {
+          "image_file": "phil3.webp"
+        },
+        {
+          "image_file": "phil4.webp"
+        },
+        {
+          "image_file": "phil5.webp"
+        },
+        {
+          "image_file": "phil6.webp"
+        },
+        {
+          "image_file": "phil7.webp"
+        },
+        {
+          "image_file": "phil8.webp"
+        },
+        {
+          "image_file": "phil9.webp"
+        },
+        {
+          "image_file": "phil10.webp"
+        },
+        {
+          "image_file": "phil11.webp"
+        },
+        {
+          "image_file": "phil13.webp"
+        },
+        {
+          "image_file": "phil14.webp"
+        },
+        {
+          "image_file": "phil15.webp"
+        },
+        {
+          "image_file": "phil16.webp"
+        },
+        {
+          "image_file": "phil17.webp"
+        },
+        {
+          "image_file": "phil18.webp"
+        },
+        {
+          "image_file": "phil19.webp"
+        },
+        {
+          "image_file": "phil20.webp"
+        },
+        {
+          "image_file": "phil21.webp"
+        },
+        {
+          "image_file": "phil22.webp"
+        },
+        {
+          "image_file": "phil23.webp"
+        },
+        {
+          "image_file": "phil24.webp"
+        },
+        {
+          "image_file": "phil25.webp"
+        },
+        {
+          "image_file": "phil26.webp"
+        },
+        {
+          "image_file": "phil27.webp"
+        },
+        {
+          "image_file": "phil28.webp"
+        },
+        {
+          "image_file": "phil29.webp"
+        },
+        {
+          "image_file": "phil30.webp"
+        }
+      ]
+    }
+
+
+      ]
+}

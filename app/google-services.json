@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "282943212031",
+    "firebase_url": "https://cstickers-20c56.firebaseio.com",
+    "project_id": "cstickers-20c56",
+    "storage_bucket": "cstickers-20c56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282943212031:android:060ef44e815cef4d",
+        "android_client_info": {
+          "package_name": "stickers.wp.cuppypackstickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282943212031-perjrr57fanvmubdpn8ihr8sjnjn4rbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVycEN68VVDB3PJOMZaMZw3l4kr6V8mU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282943212031-perjrr57fanvmubdpn8ihr8sjnjn4rbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1419631500355407~5424500772"
+    }
+  ],
+  "configuration_version": "1"
+}
