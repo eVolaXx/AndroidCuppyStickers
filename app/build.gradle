@@ -3,6 +3,7 @@ apply plugin: 'com.google.gms.google-services'
 
 android {
     //the compression of webp file during build causes problem with FileDescriptor in ContentProvider.
+    namespace 'stickers.wp.cuppypackstickers'
     aaptOptions {
         noCompress "webp"
     }
@@ -14,11 +15,11 @@ android {
             storePassword 'juanka'
         }
     }
-    compileSdkVersion 29
+    compileSdkVersion 33
     defaultConfig {
         applicationId "stickers.wp.cuppypackstickers"
         minSdkVersion 16
-        targetSdkVersion 29
+        targetSdkVersion 33
         versionCode 28
         versionName "1.5"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
